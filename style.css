@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+header{
+    text-align: center;
+    display: inline;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
+body{
+    background-image: url(./img/fondo\ 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contenedor{
+    text-align: center;
+    padding: 40px;
+    font-family: 'Bebas Neue', cursive;
+   
+   
+}
+
+h2{
+    color:rgb(105, 81, 81);
+    font-size: 90px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+p{
+    font-family: 'Kanit', sans-serif;
+    font-size: 50px;
+    color: black;
+    font-weight: 700;
+}
+
+.contenedor main form{
+    font-family: 'Dancing Script', cursive; 
+    font-size: 20px;
+    text-align: center;
+    color: beige;
+    
+}
