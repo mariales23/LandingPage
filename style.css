@@ -25,13 +25,17 @@ h2{
     color:rgb(105, 81, 81);
     font-size: 90px;
     font-family: 'Bebas Neue', cursive;
+    position: relative;
+    bottom: 50px;
 }
 
-p{
+.parrafo1{
     font-family: 'Kanit', sans-serif;
     font-size: 50px;
     color: black;
     font-weight: 700;
+    position: relative;
+    bottom: 80px;
 }
 
 .contenedor main form{
